@@ -1,0 +1,101 @@
+header {
+    background-color: black;
+    border-bottom: 5px solid white;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+a {
+    margin: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 10;
+    font-family:'Courier New', Courier, monospace;
+}
+
+section{
+    background-color: black;
+}
+
+.container {
+  display: flex;
+  align-items: center; 
+  gap: 20px;
+  padding: 20px;
+  max-width: 800px;
+    margin-left: 35px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.container img {
+  width: 110px;
+  height: 55px;
+}
+
+h1 {
+  margin-left: 0;
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  color: white;
+  align-self: flex-end;
+}
+
+.main-photo{
+  text-align: center;
+  width: 1495px; 
+  height: 730px;
+}
+
+
+
+h2{
+  font-family: Fiorina Title;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+img{
+width: 1000px; 
+height: 500;
+}
+
+.imgfooter{
+width: 1000px; 
+height: 500;
+}
+
+footer{
+  height: 300px;
+  background-color: black;
+}
+
+.footer{
+  border-bottom: 3px solid gray;
+}
+
+.under-footer{
+    text-decoration: none;
+    font-size: 12px;
+    font-family:'Courier New', Courier, monospace;
+    color: gray;
+    margin-top: 10px;
+}
+
+.logo-FB{
+  width: 25px;
+  height: auto;
+  margin-left: 115px;
+}
+
+.logo-INS{
+  width: 34px;
+  height: auto;
+  margin-left: 5px;
+}
+
+.logo-YT{
+  width: 38px;
+  height: auto;
+  margin-left: 5px;
+}
